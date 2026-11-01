@@ -2,7 +2,7 @@
 
 **Name:** MOTHE PAVAN KUMAR · **Registration number:** 252U1R9100 · **Section:** CSE-GEN-AI-2B-111
 
-**Live link:** PASTE PUBLIC URL HERE (or explain why the project could not be deployed and add Postman screenshots)
+**Live link:** https://backendlabs-1.onrender.com/ 
 
 ## How to run
 
