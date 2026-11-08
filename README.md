@@ -2,7 +2,7 @@
 
 **Name:** Mothe Pavan Kumar · **Registration number:** 252U1R9100 · **Section:** CSE-GEN-AI-2B-111
 
-**Live link:** Local server running at `http://localhost:3000` (Postman screenshots of all endpoints, edge cases, and the 20/20 collection run are in `screenshots/`).
+**Live link:** https://backendlabs-3.onrender.com/
 
 ## How to run
 

@@ -60,6 +60,11 @@ const validId = (id) => /^\d+$/.test(id);
 
 // ---------- routes ----------
 
+// GET / -> root health check
+app.get("/", (req, res) => {
+  res.status(200).send("Books REST API is running. Access /books/ to view all books.");
+});
+
 // GET /books/ with search, filter, sort and pagination
 app.get("/books/", async (req, res) => {
   const {
